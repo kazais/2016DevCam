@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/01 15:26:15.000.477,C:\Users\Kazutaka.aiso\Desktop\DevCamp_Aiso_PG\SplitView\SplitView.dproj=C:\Users\Kazutaka.aiso\Desktop\DevCamp_Aiso_PG\SplitView_for_demo\SplitViewdemo.dproj</Transaction>
+    <Transaction>2016/06/01 15:26:43.000.506,C:\Users\Kazutaka.aiso\Desktop\DevCamp_Aiso_PG\SplitView\uSplitView.pas=C:\Users\Kazutaka.aiso\Desktop\DevCamp_Aiso_PG\SplitView_for_demo\uSplitViewDemo.pas</Transaction>
+    <Transaction>2016/06/01 15:26:43.000.506,C:\Users\Kazutaka.aiso\Desktop\DevCamp_Aiso_PG\SplitView\uSplitView.dfm=C:\Users\Kazutaka.aiso\Desktop\DevCamp_Aiso_PG\SplitView_for_demo\uSplitViewDemo.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,25 @@
+unit taskbar;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, System.Win.TaskbarCore, Vcl.Taskbar;
+
+type
+  TfmtaskBar = class(TForm)
+    Taskbar1: TTaskbar;
+  private
+    { Private éŒ¾ }
+  public
+    { Public éŒ¾ }
+  end;
+
+var
+  fmtaskBar: TfmtaskBar;
+
+implementation
+
+{$R *.dfm}
+
+end.
